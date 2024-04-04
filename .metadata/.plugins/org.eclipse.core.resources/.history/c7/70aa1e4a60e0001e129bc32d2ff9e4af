@@ -1,0 +1,5 @@
+package com.chinmay.ApiGateway.models;
+
+public class AuthResponse {
+
+}

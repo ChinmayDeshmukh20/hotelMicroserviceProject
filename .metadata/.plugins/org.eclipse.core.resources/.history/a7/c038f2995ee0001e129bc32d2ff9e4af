@@ -1,0 +1,5 @@
+package com.chinmay.ApiGateway.config;
+
+public class SecurityConfig {
+
+}

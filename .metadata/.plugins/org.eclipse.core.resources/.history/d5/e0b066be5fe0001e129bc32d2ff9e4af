@@ -1,0 +1,5 @@
+package com.chinmay.ApiGateway.Controllers;
+
+public class AuthController {
+
+}
